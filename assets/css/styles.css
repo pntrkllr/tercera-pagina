@@ -1,0 +1,33 @@
+body{
+    background-color: darkorange;
+}
+
+.bordes{
+    margin-left: 5%;
+    margin-right: 2.5%;
+}
+.bordes2{
+    margin-left: 5%;
+    margin-right: 2.5%;
+}
+.tamano{
+    height: 585px;
+    width: 100vw;
+    object-fit: cover;
+}
+.boton:hover{
+    color: darkorange;
+}
+
+.card-title{
+    color: darkorange;
+}
+
+.ms-fullDerecha{
+    margin-top: 20px;
+    margin-left: 88%;
+}
+
+.enlace{
+    color: black;
+}
